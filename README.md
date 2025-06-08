@@ -49,7 +49,7 @@ The website includes the following sections:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/nextjs-community-starter.git
+   git clone https://github.com/KanyaratTmc/nextjs-website.git
    cd nextjs-community-starter
    ```
 
